@@ -24,9 +24,9 @@ repository               : "icarpick/icarpick.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ian Carpick"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I am a PhD student in the UC Santa Cruz Department of Linguistics. My research focuses on the way that (psycho)physical and cognitive constraints and information theoretic considerations shape the strategies that language users employ in real-time production and perception."
+  bio              : "Hi! I am a PhD student in the UC Santa Cruz Department of Linguistics. My research focuses on the way that (psycho)physical and cognitive constraints and information theoretic considerations shape the strategies that language users employ in real-time production and perception. My research interests include the allocation of perceptual resources during listening, the perception of nasalized vowels, and how general constraints on human motion shape phonetics and phonology."
   location         : "Santa Cruz, CA"
   employer         : "UC Santa Cruz Department of Linguistics"
   uri              : # URL
